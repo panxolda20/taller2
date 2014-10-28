@@ -1,5 +1,0 @@
-C:\Users\panxo\Documents\github\taller2\taller2version1\taller2version1\bin\taller2version1.dll
-C:\Users\panxo\Documents\github\taller2\taller2version1\taller2version1\bin\taller2version1.pdb
-C:\Users\panxo\Documents\github\taller2\taller2version1\taller2version1\obj\Debug\taller2version1.csprojResolveAssemblyReference.cache
-C:\Users\panxo\Documents\github\taller2\taller2version1\taller2version1\obj\Debug\taller2version1.dll
-C:\Users\panxo\Documents\github\taller2\taller2version1\taller2version1\obj\Debug\taller2version1.pdb
